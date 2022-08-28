@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rahafkh1
 - 👀 I’m interested in Machine Learning, Artificial Intelligence and Data Sciences.
 - 🌱 I’m currently learning about Data Science.
+- 💞️ I’m looking to collaborate on programming projects.
 - 📫 How to reach me by Email rhof5111@gmail.com
 
 <!---
