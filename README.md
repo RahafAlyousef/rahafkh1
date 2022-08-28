@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahafkh1
+- 👋 Hi, I’m @RahafAlyousef
 - 👀 I’m interested in Machine Learning, Artificial Intelligence and Data Sciences.
 - 🌱 I’m currently learning about Data Science.
 - 💞️ I’m looking to collaborate on programming projects.
